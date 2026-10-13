@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topic 2 - Supervised Learning/Topic 2 - Supervised Learning.md",
+                "file": "Topic 3 - Deep and Shallow Networks/Topic 3.1 - Shallow Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic 2 - Supervised Learning"
+              "title": "Topic 3.1 - Shallow Networks"
             }
           }
         ]
@@ -190,11 +190,15 @@
   },
   "active": "bfe08cad2cd1a46b",
   "lastOpenFiles": [
-    "Topic 1 - Introduction/Topic 1 - Notes.md",
+    "Topic 3 - Deep and Shallow Networks/Topic 3.2 - Deep Networks.md",
+    "Topic 3 - Deep and Shallow Networks/Topic 3.1 - Shallow Networks.md",
+    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261013180745.png",
+    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261013175513.png",
+    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261013174320.png",
+    "Topic 3 - Deep and Shallow Networks/Anexos",
     "Topic 2 - Supervised Learning/Topic 2 - Supervised Learning.md",
+    "Topic 1 - Introduction/Topic 1 - Notes.md",
     "INFORMAÇÕES IMPORTANTES.md",
-    "Topic 3 - Deep and Shallow Networks/Topic 3 - Shallow Networks.md",
-    "Topic 3 - Deep and Shallow Networks/Topic 3 - Deep Networks.md",
     "Topic 2 - Supervised Learning/Sem título.md",
     "Topic 2 - Supervised Learning/Pasted image 20261006180607.png",
     "Topic 3 - Deep and Shallow Networks",
@@ -208,9 +212,6 @@
     "Topic 2 - Supervised Learning",
     "Topic 1 - Introduction/Pasted image 20261006164027.png",
     "Topic 1 - Introduction/Pasted image 20261006171815.png",
-    "Topic 1 - Introduction/Pasted image 20261006170137.png",
-    "Topic 1 - Introduction/Pasted image 20261006164509.png",
-    "Topic 1 - Introduction/Pasted image 20261006164447.png",
     "Topic 1 - Introduction"
   ]
 }
