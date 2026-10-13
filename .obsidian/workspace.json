@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "b723aadc9e2a5c09",
+    "type": "split",
+    "children": [
+      {
+        "id": "69759046a8231e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe08cad2cd1a46b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic 2 - Supervised Learning/Topic 2 - Supervised Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topic 2 - Supervised Learning"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "754bce416352136b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b72d19f4eb521bec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7de3b06b59dda7bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "923ed012950d34a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "021c38e0738209db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9857239feacc81f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4b1f93373448281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "086f6585d24f0a71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bem-vindo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "9223d1c79d67b303",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "3bb2754ff05310be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "9633a622d3ea1017",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "75f21a0958de8f36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "bfe08cad2cd1a46b",
+  "lastOpenFiles": [
+    "INFORMAÇÕES IMPORTANTES.md",
+    "Topic 3 - Deep and Shallow Networks/Topic 3 - Shallow Networks.md",
+    "Topic 3 - Deep and Shallow Networks/Topic 3 - Deep Networks.md",
+    "Topic 2 - Supervised Learning/Sem título.md",
+    "Topic 2 - Supervised Learning/Pasted image 20261006180607.png",
+    "Topic 3 - Deep and Shallow Networks",
+    "Topic 2 - Supervised Learning/Topic 2 - Supervised Learning.md",
+    "Topic 1 - Introduction/Topic 1 - Notes.md",
+    "Topic 2 - Supervised Learning.zip",
+    "Topic 1 - Introduction.zip",
+    "Topic 2 - Supervised Learning/Pasted image 20261006181041.png",
+    "Topic 2 - Supervised Learning/Pasted image 20261006181025.png",
+    "Topic 2 - Supervised Learning/Pasted image 20261006181011.png",
+    "Topic 2 - Supervised Learning/Pasted image 20261006180746.png",
+    "Topic 1 - Introduction.md",
+    "Topic 2 - Supervised Learning",
+    "Topic 1 - Introduction/Pasted image 20261006164027.png",
+    "Topic 1 - Introduction/Pasted image 20261006171815.png",
+    "Topic 1 - Introduction/Pasted image 20261006170137.png",
+    "Topic 1 - Introduction/Pasted image 20261006164509.png",
+    "Topic 1 - Introduction/Pasted image 20261006164447.png",
+    "Topic 1 - Introduction"
+  ]
+}
