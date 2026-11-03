@@ -11,10 +11,24 @@
             "id": "1b780202e1d7f4d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Topic 7 - Regularization/Topic 7 - Regularization.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Topic 7 - Regularization"
+            }
+          },
+          {
+            "id": "e4a5f9325d5bd336",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -186,9 +200,18 @@
   },
   "active": "1b780202e1d7f4d3",
   "lastOpenFiles": [
-    "Topic 3 - Deep and Shallow Networks/Topic 3.1 - Shallow Networks.md",
-    "Topic 4 - Loss Functions and Fitting Models/Topic 4.2 - Fitting Models.md",
+    "Topic 5 - Gradients and Backpropagation/Topic 5.1 - Backpropagation.md",
     "Topic 4 - Loss Functions and Fitting Models/Topic 4.1 - Loss Functions.md",
+    "Topic 4 - Loss Functions and Fitting Models/Topic 4.2 - Fitting Models.md",
+    "Topic 5 - Gradients and Backpropagation/Topic 5.2 - Parameter Initialization.md",
+    "Topic 6 - Measuring Performance/Topic 6 - Measuring Performance.md",
+    "Topic 7 - Regularization/Topic 7 - Regularization.md",
+    "Topic 7 - Regularization/Topic 8 - Measuring Performance.md",
+    "Topic 7 - Regularization",
+    "Topic 6 - Measuring Performance",
+    "Topic 5 - Gradients and Backpropagation/Topic 6 - Fitting Models.md",
+    "Topic 5 - Gradients and Backpropagation",
+    "Topic 3 - Deep and Shallow Networks/Topic 3.1 - Shallow Networks.md",
     "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172543.png",
     "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172441.png",
     "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172351.png",
@@ -211,7 +234,6 @@
     "Topic 2 - Supervised Learning.zip",
     "Topic 1 - Introduction.zip",
     "Topic 1 - Introduction.md",
-    "Topic 2 - Supervised Learning",
-    "Topic 1 - Introduction"
+    "Topic 2 - Supervised Learning"
   ]
 }
