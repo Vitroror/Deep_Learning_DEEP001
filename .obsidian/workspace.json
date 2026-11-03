@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69759046a8231e5d",
+        "id": "58bc798d99e6b2e0",
         "type": "tabs",
         "children": [
           {
-            "id": "bfe08cad2cd1a46b",
+            "id": "1b780202e1d7f4d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic 3 - Deep and Shallow Networks/Topic 3.1 - Shallow Networks.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Topic 3.1 - Shallow Networks"
+              "title": "Nova aba"
             }
           }
         ]
@@ -188,30 +184,34 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "bfe08cad2cd1a46b",
+  "active": "1b780202e1d7f4d3",
   "lastOpenFiles": [
-    "Topic 3 - Deep and Shallow Networks/Topic 3.2 - Deep Networks.md",
     "Topic 3 - Deep and Shallow Networks/Topic 3.1 - Shallow Networks.md",
-    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261013180745.png",
-    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261013175513.png",
-    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261013174320.png",
+    "Topic 4 - Loss Functions and Fitting Models/Topic 4.2 - Fitting Models.md",
+    "Topic 4 - Loss Functions and Fitting Models/Topic 4.1 - Loss Functions.md",
+    "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172543.png",
+    "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172441.png",
+    "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172351.png",
+    "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172330.png",
+    "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172219.png",
+    "Topic 4 - Loss Functions and Fitting Models/Anexos",
+    "Topic 4 - Loss Functions and Fitting Models",
+    "Topic 3 - Deep and Shallow Networks/Topic 3.2 - Deep Networks.md",
+    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261026170140.png",
+    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261026165813.png",
+    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261026165334.png",
+    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261026162753.png",
+    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261026162511.png",
     "Topic 3 - Deep and Shallow Networks/Anexos",
     "Topic 2 - Supervised Learning/Topic 2 - Supervised Learning.md",
     "Topic 1 - Introduction/Topic 1 - Notes.md",
     "INFORMAÇÕES IMPORTANTES.md",
     "Topic 2 - Supervised Learning/Sem título.md",
-    "Topic 2 - Supervised Learning/Pasted image 20261006180607.png",
     "Topic 3 - Deep and Shallow Networks",
     "Topic 2 - Supervised Learning.zip",
     "Topic 1 - Introduction.zip",
-    "Topic 2 - Supervised Learning/Pasted image 20261006181041.png",
-    "Topic 2 - Supervised Learning/Pasted image 20261006181025.png",
-    "Topic 2 - Supervised Learning/Pasted image 20261006181011.png",
-    "Topic 2 - Supervised Learning/Pasted image 20261006180746.png",
     "Topic 1 - Introduction.md",
     "Topic 2 - Supervised Learning",
-    "Topic 1 - Introduction/Pasted image 20261006164027.png",
-    "Topic 1 - Introduction/Pasted image 20261006171815.png",
     "Topic 1 - Introduction"
   ]
 }
