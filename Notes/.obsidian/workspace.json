@@ -11,10 +11,28 @@
             "id": "1b780202e1d7f4d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Topic 8 - Convolutional Neural Networks/Topic 8 - Convolutional Neural Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topic 8 - Convolutional Neural Networks"
+            }
+          },
+          {
+            "id": "c1611d84472dd77c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic 8 - Convolutional Neural Networks/Topic 8.1 - Residual Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topic 8.1 - Residual Networks"
             }
           },
           {
@@ -27,7 +45,8 @@
               "title": "Visualização em gráfico"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,42 +213,44 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "1b780202e1d7f4d3",
+  "active": "c1611d84472dd77c",
   "lastOpenFiles": [
-    "Topic 7 - Regularization/Topic 7 - Regularization.md",
+    "UnderstandingDeepLearning_02_09_26_C.pdf",
+    "Topic 8 - Convolutional Neural Networks/Topic 8.1 - Residual Networks.md",
+    "Topic 8 - Convolutional Neural Networks/Topic 8 - Convolutional Neural Networks.md",
+    "Topic 8 - Convolutional Neural Networks/Anexos/Pasted image 20261110185113.png",
+    "Topic 8 - Convolutional Neural Networks/Anexos/Pasted image 20261110185056.png",
+    "Topic 8 - Convolutional Neural Networks/Anexos/Pasted image 20261110185052.png",
+    "Topic 8 - Convolutional Neural Networks/Anexos/Pasted image 20261110185029.png",
+    "Topic 8 - Convolutional Neural Networks/Anexos/Pasted image 20261110185013.png",
+    "Topic 8 - Convolutional Neural Networks/Anexos/Pasted image 20261110184925.png",
+    "Topic 8 - Convolutional Neural Networks/Anexos/Pasted image 20261110184035.png",
+    "Topic 8 - Convolutional Neural Networks/Anexos/Pasted image 20261110183958.png",
+    "Topic 8 - Convolutional Neural Networks/Anexos/Pasted image 20261110183940.png",
+    "Topic 8 - Convolutional Neural Networks/Anexos/Pasted image 20261110183910.png",
+    "Topic 8 - Convolutional Neural Networks/Anexos",
+    "Topic 6 - Measuring Performance/Topic 6 - Measuring Performance.md",
     "Topic 5 - Gradients and Backpropagation/Topic 5.1 - Backpropagation.md",
+    "Topic 8 - Convolutional Neural Networks",
+    "Topic 7 - Regularization/Topic 7 - Regularization.md",
     "Topic 4 - Loss Functions and Fitting Models/Topic 4.1 - Loss Functions.md",
     "Topic 4 - Loss Functions and Fitting Models/Topic 4.2 - Fitting Models.md",
     "Topic 5 - Gradients and Backpropagation/Topic 5.2 - Parameter Initialization.md",
-    "Topic 6 - Measuring Performance/Topic 6 - Measuring Performance.md",
     "Topic 7 - Regularization/Topic 8 - Measuring Performance.md",
     "Topic 7 - Regularization",
     "Topic 6 - Measuring Performance",
     "Topic 5 - Gradients and Backpropagation/Topic 6 - Fitting Models.md",
     "Topic 5 - Gradients and Backpropagation",
     "Topic 3 - Deep and Shallow Networks/Topic 3.1 - Shallow Networks.md",
-    "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172543.png",
-    "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172441.png",
-    "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172351.png",
-    "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172330.png",
-    "Topic 4 - Loss Functions and Fitting Models/Anexos/Pasted image 20261026172219.png",
     "Topic 4 - Loss Functions and Fitting Models/Anexos",
     "Topic 4 - Loss Functions and Fitting Models",
     "Topic 3 - Deep and Shallow Networks/Topic 3.2 - Deep Networks.md",
-    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261026170140.png",
-    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261026165813.png",
-    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261026165334.png",
-    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261026162753.png",
-    "Topic 3 - Deep and Shallow Networks/Anexos/Pasted image 20261026162511.png",
     "Topic 3 - Deep and Shallow Networks/Anexos",
     "Topic 2 - Supervised Learning/Topic 2 - Supervised Learning.md",
     "Topic 1 - Introduction/Topic 1 - Notes.md",
     "INFORMAÇÕES IMPORTANTES.md",
     "Topic 2 - Supervised Learning/Sem título.md",
     "Topic 3 - Deep and Shallow Networks",
-    "Topic 2 - Supervised Learning.zip",
-    "Topic 1 - Introduction.zip",
-    "Topic 1 - Introduction.md",
-    "Topic 2 - Supervised Learning"
+    "Topic 1 - Introduction.md"
   ]
 }

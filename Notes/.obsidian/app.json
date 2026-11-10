@@ -1,4 +1,7 @@
 {
   "newFileLocation": "current",
-  "attachmentFolderPath": "./Anexos"
+  "attachmentFolderPath": "./Anexos",
+  "readableLineLength": false,
+  "showInlineTitle": false,
+  "showLineNumber": true
 }
