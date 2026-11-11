@@ -96,7 +96,7 @@ In image classification, the input image is assigned to one of a fixed set of ca
 
 ![[Pasted image 20261110183940.png]]
 
-**VGG** follows the same general pattern, but uses a much deeper sequence of smaller $3\times3$ convolutions. Its success showed that increasing network depth could significantly improve image classification performance. However, deeper networks eventually become difficult to train, which motivates the residual connections studied in the next chapter.
+**VGG** follows the same general pattern, but uses a much deeper sequence of smaller $3\times3$ convolutions. Its success showed that increasing network depth could significantly improve image classification performance. However, deeper networks eventually become difficult to train.
 
 ![[Pasted image 20261110183958.png]]
 
