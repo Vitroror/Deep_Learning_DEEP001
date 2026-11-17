@@ -2,4 +2,5 @@ INFORMAÇÕES IMPORTANTES.md
 .DS_Store
 Assignments/.venv/
 *.pdf
+!Notes/Topic 9 - RNNs and Transformers/ Topic 9.1 - Transformers.pdf
 Notes/.obsidian/
